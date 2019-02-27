@@ -1,0 +1,802 @@
+[
+    {
+        "code": "5c716ef7-8e93-411e-9e42-68b1e583bd60",
+        "name": "Diphenhydramine HCl"
+    },
+    {
+        "code": "091eefc3-8ebb-4554-8b92-d15f50241939",
+        "name": "Benazepril Hydrochloride"
+    },
+    {
+        "code": "4caabd62-330a-4f09-b643-4ba9cafd9a28",
+        "name": "Nitrogen"
+    },
+    {
+        "code": "f1cc198c-f110-4961-9aa0-9d9fe1f02a83",
+        "name": "OCTINOXATE and TITANIUM DIOXIDE"
+    },
+    {
+        "code": "7353a77d-6585-427f-9dcb-330da45476d5",
+        "name": "GLYCERIN"
+    },
+    {
+        "code": "d1ceb7bc-1444-4ee8-9039-2d4c83a0aa72",
+        "name": "Dimethicone"
+    },
+    {
+        "code": "744e5ab2-615c-4e80-a199-f4cddaf30194",
+        "name": "East Sycamore"
+    },
+    {
+        "code": "32e82828-917e-479f-929a-8440927d2059",
+        "name": "FAMOTIDINE"
+    },
+    {
+        "code": "db147a68-17f1-4e8b-8873-17b7c76515b3",
+        "name": "Fluconazole"
+    },
+    {
+        "code": "af323095-8d1c-4f03-ad62-82aa58b8778a",
+        "name": "Microsporum canis"
+    },
+    {
+        "code": "0414bfdf-f3f0-4b8a-9e41-fe300a962f13",
+        "name": "ALCOHOL"
+    },
+    {
+        "code": "3364aabd-7d48-445e-94cd-1cb21b7990b5",
+        "name": "Valsartan and Hydrochlorothiazide"
+    },
+    {
+        "code": "46cadfd0-bba7-4ccb-b24f-ac79afea3c51",
+        "name": "Ibuprofen"
+    },
+    {
+        "code": "9d343f54-4647-46e6-b67b-971a45476b85",
+        "name": "Hydrocortisone"
+    },
+    {
+        "code": "e87625ea-d873-4939-bbaa-82a068861201",
+        "name": "OCTINOXATE, TITANIUM DIOXIDE"
+    },
+    {
+        "code": "05cd8713-a790-4038-bc0f-1cbd3d823457",
+        "name": "Lisinopril"
+    },
+    {
+        "code": "85e0ad99-a42c-4ae1-bef4-e675d9ef59b5",
+        "name": "CERAMIDE 3"
+    },
+    {
+        "code": "7e65fb31-edbf-40b0-95c1-627403500ad8",
+        "name": "PIPERACILLIN SODIUM and TAZOBACTAM SODIUM"
+    },
+    {
+        "code": "3c5e3ef4-f8e1-4d86-b367-7374411f99d4",
+        "name": "Ranitidine"
+    },
+    {
+        "code": "26659d2c-2836-47fc-acb1-a0d7debfeda8",
+        "name": "Amitriptyline Hydrochloride"
+    },
+    {
+        "code": "b517967e-23d7-4770-8155-f6c416cd4037",
+        "name": "ACETAMINOPHEN, CHLORPHENIRAMINE MALEATE, DEXTROMETHORPHAN HYDROBROMIDE, and PHENYLEPHRINE HYDROCHLORIDE"
+    },
+    {
+        "code": "bdc9093f-f7aa-4216-9585-565362c57d5c",
+        "name": "venlafaxine hydrochloride"
+    },
+    {
+        "code": "cbf45d15-ead7-49fb-bb22-9e37e04ec0b3",
+        "name": "Carbidopa, levodopa and entacapone"
+    },
+    {
+        "code": "6a4af4f6-fd53-410d-b0a2-688b902f1f4b",
+        "name": "quetiapine fumarate"
+    },
+    {
+        "code": "f02e33bf-2119-4732-adc6-ad90f4a1b186",
+        "name": "Irbesartan and Hydrochlorothiazide"
+    },
+    {
+        "code": "35d03db3-9fb6-4d63-b4ff-fbc42586fc17",
+        "name": "Camphor, Menthol, Methyl Salicylate"
+    },
+    {
+        "code": "aff0835d-ea05-4e2e-a94d-790470068654",
+        "name": "calcium carbonate"
+    },
+    {
+        "code": "1ba12683-ff0a-4b9b-a161-8a832ef4aaee",
+        "name": "OCTINOXATE, OCTISALATE, OXYBENZONE, TITANIUM DIOXIDE, ZINC OXIDE"
+    },
+    {
+        "code": "8ce8ec22-5f3b-4553-a1f3-474cf74545c5",
+        "name": "Argentum 0.4 Adult Size (cocoa butter) Special Order"
+    },
+    {
+        "code": "7803a87e-51bb-46de-ba53-ab5fa8d18d8d",
+        "name": "Mulberry Mix"
+    },
+    {
+        "code": "2bce4028-bdd4-4f74-b36d-6be480599936",
+        "name": "Zinc Gluconate"
+    },
+    {
+        "code": "5b70e709-ee70-4a3b-854d-23ab87154b82",
+        "name": "MENTHOL"
+    },
+    {
+        "code": "f86b8fa7-9031-445b-80a3-d9d96950a780",
+        "name": "Ibuprofen"
+    },
+    {
+        "code": "559f239b-d291-42e2-9f77-cb99dbc422d3",
+        "name": "Propranolol Hydrochloride"
+    },
+    {
+        "code": "1e8d698d-0276-4cd0-b2e1-de33be084b99",
+        "name": "Dextromethorphan Hydrobromide and Promethazine Hydrochloride"
+    },
+    {
+        "code": "ab361f3b-913c-4a2e-9a6b-410555159018",
+        "name": "Fexofenadine Hydrochloride"
+    },
+    {
+        "code": "69cc488c-2e07-481a-b9cc-6b7fa6ce924e",
+        "name": "phenytoin sodium"
+    },
+    {
+        "code": "9ea0aaaa-d13b-484c-a177-215f6660f1a7",
+        "name": "Magesium Citrate"
+    },
+    {
+        "code": "5a35d71d-b110-4c0a-9c11-3f9f17f75bf2",
+        "name": "venlafaxine hydrochloride"
+    },
+    {
+        "code": "0035ae36-783b-41fd-865c-c4eb5b224a82",
+        "name": "Fluoride"
+    },
+    {
+        "code": "6769bcce-6cb4-4839-8733-0f3cf73af516",
+        "name": "ARNICA MONTANA FLOWER and CHAMOMILE"
+    },
+    {
+        "code": "c10b4e5b-1835-48de-b25d-c0bebdd36e89",
+        "name": "Theophylline"
+    },
+    {
+        "code": "7bce67c3-d24e-4839-ad25-87495bad6467",
+        "name": "Albuterol Sulfate"
+    },
+    {
+        "code": "64e72422-f900-441a-a30f-a77a093bb444",
+        "name": "Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride"
+    },
+    {
+        "code": "69678782-b708-4d39-a56a-ddd0dbf87372",
+        "name": "OXYBENZONE, OCTISALATE, AVOBENZONE"
+    },
+    {
+        "code": "b434721b-2287-4182-8e23-a8a5f23eb632",
+        "name": "Acetaminophen and Aspirin and Caffeine"
+    },
+    {
+        "code": "1efb2a18-6dc0-494e-bcc2-8fa6b65564bb",
+        "name": "Phytolacca decandra, Gnaphalium polycephalum, Colocynthis, Gelsemium sempervirens,"
+    },
+    {
+        "code": "17717cfd-730e-4cc5-9cde-857a19467d94",
+        "name": "fentanyl transdermal system"
+    },
+    {
+        "code": "9139528a-57c3-498b-b42e-d0d0b17b8430",
+        "name": "Oxygen"
+    },
+    {
+        "code": "9164d154-6c0f-4033-a0b4-6b5f3cd92112",
+        "name": "METHYL SALICYLATE, MENTHOL AND CAPSAICIN"
+    },
+    {
+        "code": "2bc2a3ff-c68c-4509-920e-1f2521f57735",
+        "name": "IBUPROFEN"
+    },
+    {
+        "code": "e2983142-8055-4857-bdfe-153bc66ebe92",
+        "name": "Candesartan cilexetil and Hydrochlorothiazide"
+    },
+    {
+        "code": "a898b3fe-7e8d-4ddb-9ee2-f68af8e94694",
+        "name": "Ibuprofen"
+    },
+    {
+        "code": "0328ac04-68f6-46a3-804d-2c3701f829bb",
+        "name": "Mirtazapine"
+    },
+    {
+        "code": "827e8f67-5aa1-4488-9501-d9dff9372b3f",
+        "name": "Pyrite 8"
+    },
+    {
+        "code": "999faba0-4e8e-4dee-9067-1ba7d816b89b",
+        "name": "theophylline anhydrous"
+    },
+    {
+        "code": "ff6ac6dc-b377-47c2-9459-ef0981da20dd",
+        "name": "Quetiapine fumarate"
+    },
+    {
+        "code": "5767fc46-a545-4287-8299-acf9c592d397",
+        "name": "Anthracinum,"
+    },
+    {
+        "code": "90cdf8ff-58d8-49b3-9044-5fb53da5d839",
+        "name": "Lovastatin"
+    },
+    {
+        "code": "6ea5e4d2-eb6e-4086-a5a2-3887dc505cdd",
+        "name": "Hydrocortisone"
+    },
+    {
+        "code": "adaca1e7-de0e-44ed-b59f-2b64f5352607",
+        "name": "benzonatate"
+    },
+    {
+        "code": "ceec3ba4-2309-415e-be49-785fbe130a25",
+        "name": "BENZALKONIUM CHLORIDE"
+    },
+    {
+        "code": "59b11be1-d360-42f4-9d49-724098ce3859",
+        "name": "NAFCILLIN SODIUM"
+    },
+    {
+        "code": "cfacaabb-d5f7-487c-b7f6-6a5ddb505c20",
+        "name": "GLYCERIN"
+    },
+    {
+        "code": "c46e21aa-5de6-47bb-8079-2ff44c6698f8",
+        "name": "Octinoxate, Oxybenzone, and Petrolatum"
+    },
+    {
+        "code": "bf42872f-6e84-4aad-b511-7e8ae7562554",
+        "name": "Diphenhydramine Hydrochloride"
+    },
+    {
+        "code": "6aeaaa69-116e-40c2-b5f4-c25067004c0f",
+        "name": "loratadine"
+    },
+    {
+        "code": "3bb21d83-5415-49ed-b5a4-81c0f407bc16",
+        "name": "Acetaminophen, Diphenhydramine HCl"
+    },
+    {
+        "code": "0c3ef205-e755-4e28-93c0-d533fa6cff3c",
+        "name": "Aluminum hydroxide, Magnesium hydroxide, Simethicone"
+    },
+    {
+        "code": "988e762e-dec8-48ad-813b-8ff257685617",
+        "name": "Hydromorphone HCl"
+    },
+    {
+        "code": "4f85ccdf-b015-465f-9ce6-70027ccf0944",
+        "name": "Apis mellifica, Baptisia tinctoria, Colocynthis, Hepar sulphuris calcareum, Histaminum hydrochloricum, Hydrastis canadensis, Ignatia amara, Kali bichromicum, Lemna minor, Mercurius vivus, Pulsatilla, Rhus toxicodendron, Sabadilla, Thuja occidentalis"
+    },
+    {
+        "code": "9c024237-74f7-4df6-8373-856ec889e98a",
+        "name": "Loratadine"
+    },
+    {
+        "code": "bdcf05df-ae7f-4fb5-a1e2-2eab7d75697f",
+        "name": "Alcohol"
+    },
+    {
+        "code": "f3dcc9f4-22a7-441d-bfb3-578fc5881481",
+        "name": "Natrum Muriaticum"
+    },
+    {
+        "code": "6a6ee1a4-8d1b-4521-96d4-2a3f6c162351",
+        "name": "Risperidone"
+    },
+    {
+        "code": "426fb7fe-a115-49b1-9062-034a8adfb243",
+        "name": "TOLTERODINE TARTRATE"
+    },
+    {
+        "code": "f237601c-58eb-485b-9228-508a63956acc",
+        "name": "Clotrimazole"
+    },
+    {
+        "code": "fd496788-eb04-4d90-a0e4-13bcc176437d",
+        "name": "Diphenhydramine Hydrochloride, Zinc Acetate"
+    },
+    {
+        "code": "6ce9d5a5-2717-4ed1-a5df-511703ac5253",
+        "name": "OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE"
+    },
+    {
+        "code": "f7e4ff33-bbbc-44da-bb51-70e5bf7e9ca6",
+        "name": "Isopropyl Alcohol"
+    },
+    {
+        "code": "3f44321c-a289-4199-9ce3-9ffd9a152ccc",
+        "name": "CAMPHOR (NATURAL), MENTHOL, METHYL SALICYLATE"
+    },
+    {
+        "code": "a7f4c79b-2ddf-401a-b1a9-b021daa3e212",
+        "name": "Diphenhydramine Hydrochloride"
+    },
+    {
+        "code": "454009f2-8a23-460d-94e7-1214178d7ffa",
+        "name": "Urtica Conchae Special Order"
+    },
+    {
+        "code": "bdc26eb4-abda-4413-9b97-0271096abe21",
+        "name": "Alendronate Sodium"
+    },
+    {
+        "code": "5aaa2239-d193-4900-9256-e627bfa44824",
+        "name": "ciprofloxacin hydrochloride"
+    },
+    {
+        "code": "1269a9c5-1589-4b2e-9186-7897cdfe155e",
+        "name": "Simvastatin"
+    },
+    {
+        "code": "bc213f89-361b-4513-afe0-73cf0b62b19e",
+        "name": "Triclosan"
+    },
+    {
+        "code": "2227d146-ffa8-4310-96ca-cfa4c9c597ce",
+        "name": "Ciprofloxacin"
+    },
+    {
+        "code": "e79e7668-83d8-434c-8035-0e68177f1586",
+        "name": "FENOFIBRATE"
+    },
+    {
+        "code": "4cb47314-d6a6-46e0-a349-f97eeccda416",
+        "name": "ASPIRIN"
+    },
+    {
+        "code": "041f1959-2539-496d-877a-95d26c721de2",
+        "name": "EXTENDED PHENYTOIN SODIUM"
+    },
+    {
+        "code": "b04d452e-484b-4546-9057-361b869169e1",
+        "name": "Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
+    },
+    {
+        "code": "ee5b9e40-43cb-4361-a6cf-455cd5ce1ec6",
+        "name": "Triclosan"
+    },
+    {
+        "code": "aaef819c-9141-4428-9c1e-bdbc0a5cd123",
+        "name": "Palmers Amaranth"
+    },
+    {
+        "code": "6d09b7f5-d30a-4456-8bae-5513a3a7e575",
+        "name": "camphor and menthol"
+    },
+    {
+        "code": "dcbf0f09-154c-426a-9884-7adc77b8e647",
+        "name": "Isometheptene Mucate, Caffeine, and Acetaminophen"
+    },
+    {
+        "code": "0fd170dd-45e7-4317-b24b-ab7d6da48f42",
+        "name": "CETYLPYRIDINIUM CHLORIDE"
+    },
+    {
+        "code": "83e6423c-d8aa-4ddc-8201-9696c7e62cdf",
+        "name": "Fosinopril Sodium"
+    },
+    {
+        "code": "a2e3ee2d-af90-450e-819f-cd101296cf22",
+        "name": "Menthol"
+    },
+    {
+        "code": "27f42c3f-fa28-4271-8a63-183d4498a044",
+        "name": "FELODIPINE"
+    },
+    {
+        "code": "7f8d9b95-bfdd-433f-8994-da2f6136ab9d",
+        "name": "Calcium Carbonate"
+    },
+    {
+        "code": "1dea4e4d-3e9d-4997-a635-79a1bda154f7",
+        "name": "Titanium Dioxide and Zinc Oxide"
+    },
+    {
+        "code": "fe803c94-a890-4c6f-b787-7f278d984aae",
+        "name": "Titanium Dioxide"
+    },
+    {
+        "code": "33f39ad5-ca2e-47a5-bb29-1f335fca8fd2",
+        "name": "oxycodone hydrochloride"
+    },
+    {
+        "code": "1ad59003-c0f6-483c-994c-abc860f4133c",
+        "name": "nifedipine"
+    },
+    {
+        "code": "ccdcd0e5-a936-4307-977e-2a3fcf5a8bd5",
+        "name": "Aspirin"
+    },
+    {
+        "code": "bc241207-149c-45eb-ae96-deed9b73c954",
+        "name": "Alcohol"
+    },
+    {
+        "code": "3b4872fa-dac9-44c4-8af1-75e29302ad07",
+        "name": "dextromethorphan HBr, guaifenesin, phenylephrine HCl"
+    },
+    {
+        "code": "3a983014-1a77-4ba0-afd4-0b5b14d5518f",
+        "name": "Aluminum Zirconium Trichlorohydrex Gly"
+    },
+    {
+        "code": "b3a730db-4431-40b3-96a9-548aa1998a42",
+        "name": "Dihydrocodeine Bitartrate, Guaifenesin"
+    },
+    {
+        "code": "5c57774a-b828-4cf1-8716-af6d8c165490",
+        "name": "Acetaminophen,Dextromethorphan,Phenylephrine"
+    },
+    {
+        "code": "cfae4c78-7e8e-41bb-a761-8e84f618cb67",
+        "name": "HOMOSALATE, OXYBENZONE, OCTISALATE, AVOBENZONE, OCTOCRYLENE"
+    },
+    {
+        "code": "d545edcf-0eb1-4266-a5cf-b8a30192fcf0",
+        "name": "Betamethasone Dipropionate"
+    },
+    {
+        "code": "99b0a9bf-69f9-4f6f-96f0-b127e61be0c0",
+        "name": "Levothyroxine Sodium"
+    },
+    {
+        "code": "5d45f1dc-ba84-459c-a9c3-2fadd91edbfb",
+        "name": "ALPHA.1-PROTEINASE INHIBITOR HUMAN"
+    },
+    {
+        "code": "97abebbc-af1e-431f-b6ad-2bc85cfe90bd",
+        "name": "ISOMETHEPTENE MUCATE, DICHLORALPHENAZONE, and ACETAMINOPHEN"
+    },
+    {
+        "code": "e06a7502-6c4d-4c46-b359-40d0796c0674",
+        "name": "Avobenzone, Ensulizole, Octisalate, Octocrylene"
+    },
+    {
+        "code": "b08a2f07-0f20-4ba0-921d-cf54a91733d3",
+        "name": "Box Elder"
+    },
+    {
+        "code": "c65f6997-ff80-4586-8878-3b585154eaba",
+        "name": "VENLAFAXINE HYDROCHLORIDE"
+    },
+    {
+        "code": "e7163f6f-3c70-4823-9227-5e6acc83f97a",
+        "name": "Ensulizole, Octinoxate, Oxybenzone, Zinc Oxide"
+    },
+    {
+        "code": "b9c51c33-c70b-4602-968e-71fdccf9ec3a",
+        "name": "Metreleptin"
+    },
+    {
+        "code": "088939a8-a2e5-4f58-a04c-c09c9002b152",
+        "name": "Simvastatin"
+    },
+    {
+        "code": "e1638e78-1680-4809-ae44-b2e2f426f247",
+        "name": "Treatment Set TS344003"
+    },
+    {
+        "code": "3686b778-a330-4a69-91a6-dfa37e9ad645",
+        "name": "Clematis erecta, Conium maculatum, Lycopodium clavatum, Mercurius corrosivus, Pulsatilla, Sabal serrulata, Selenium metallicum, Sepia, Staphysagria, Thuja occidentalis,"
+    },
+    {
+        "code": "f62fab0c-1d25-4d89-8439-98a6bab02a57",
+        "name": "Avobenzone, Homosalate, Octinoxate, Octisalate, Octocrylene, Oxybenzone"
+    },
+    {
+        "code": "adbe04eb-2516-48cb-bd0a-a7d239ee9172",
+        "name": "Octinoxate, Octisalate"
+    },
+    {
+        "code": "e8ef3620-1f2e-4f36-a14d-cf0db92c5383",
+        "name": "Dextromethorphan, Guaifenesin"
+    },
+    {
+        "code": "653644af-9aa7-4478-b414-bb7be218f639",
+        "name": "TOPIRAMATE"
+    },
+    {
+        "code": "2ba8c767-55d9-4cfb-9575-b8de0aada22a",
+        "name": "Chlorpheniramine maleate and Pseudoephedrine hydrochloride and Dextromethorphan hydrobromide"
+    },
+    {
+        "code": "5886bc52-072e-4705-baaa-e31fe2f51198",
+        "name": "hydromorphone hydrochloride"
+    },
+    {
+        "code": "361ac697-acff-4b59-8d1b-73b5defae6e3",
+        "name": "Sodium Monofluorophosphate"
+    },
+    {
+        "code": "f7183380-1712-4242-9f6e-e21e266d5761",
+        "name": "Acetylcysteine"
+    },
+    {
+        "code": "c156cf1f-1435-4362-893d-c8c7b05da1dd",
+        "name": "Hyoscyamus, Zinc met, Cina, Chamomilla"
+    },
+    {
+        "code": "c1064138-0222-46fc-86a7-255d9b840a81",
+        "name": "IBUPROFEN"
+    },
+    {
+        "code": "4aff1944-2e7b-479e-bed4-ac86e8e3d29c",
+        "name": "Hypromellose, Tetrahydrozoline hydrochloride"
+    },
+    {
+        "code": "932f52b9-6460-4df3-83f0-5156d9a32503",
+        "name": "Doxycycline Hyclate"
+    },
+    {
+        "code": "45428db3-d7b4-4434-88ea-c5b1c5c9abd2",
+        "name": "Dehydrated Alcohol"
+    },
+    {
+        "code": "549c4798-82c8-40e4-bee5-e6e1f39899a7",
+        "name": "SODIUM FLUORIDE"
+    },
+    {
+        "code": "f291baaa-81a4-4074-abd8-4b11f2ce0910",
+        "name": "darbepoetin alfa"
+    },
+    {
+        "code": "c510a09f-a3fb-4ddc-aad0-9989a3a92990",
+        "name": "BENZALKONIUM CHLORIDE"
+    },
+    {
+        "code": "55758837-9171-42ba-821e-6477e4b32e86",
+        "name": "ETHYL ALCOHOL"
+    },
+    {
+        "code": "5d27792e-7e96-4101-8842-2c0f6d235196",
+        "name": "Acetaminophen"
+    },
+    {
+        "code": "05fa466d-98b2-45c0-b366-18fd3f22d6b4",
+        "name": "Clobetasol Propionate"
+    },
+    {
+        "code": "5d74daf5-f790-4d4a-8b45-26f21776fddd",
+        "name": "Triclosan"
+    },
+    {
+        "code": "f2e456b1-9b59-4167-8d6f-4268cf076d0c",
+        "name": "Aspirin"
+    },
+    {
+        "code": "02d2483a-77a4-46d2-87d1-3802ff2c5687",
+        "name": "Echinacea,Baptisia tinctoria, Hydrastis canadensis, Myrrha, Nasturtium aquaticum, Phytolacca decandra, Trigonella foenum-graecum, Zone 3 Tree, Zone 3 Weed, Zone 3 Grass"
+    },
+    {
+        "code": "038e7ca4-91ca-48aa-beb5-2d95eca564e5",
+        "name": "Carvedilol"
+    },
+    {
+        "code": "fa503149-6cfb-492e-91d7-0196214814cf",
+        "name": "ONDANSETRON HYDROCHLORIDE"
+    },
+    {
+        "code": "56071e0a-1f86-493e-9b10-3d4e0be39431",
+        "name": "AVOBENZONE, HOMOSALATE,OCTISALATE,OCTOCRYLENE,OXYBENZONE"
+    },
+    {
+        "code": "de658dea-7853-4516-aebe-70984c6a1353",
+        "name": "NITROUS OXIDE"
+    },
+    {
+        "code": "b1808476-73a2-4625-bba1-0afc8f927289",
+        "name": "doxycycline"
+    },
+    {
+        "code": "de8b23c8-bbb3-4cb1-b324-561de63557b6",
+        "name": "diphenhydramine citrate, ibuprofen"
+    },
+    {
+        "code": "f13038d7-e99f-4d6e-a8cb-c33b5b253151",
+        "name": "Cerebellum Thalamus A Aurum"
+    },
+    {
+        "code": "fdf5091e-265e-4781-9de6-3e05a31e76a5",
+        "name": "Arsenic Trioxide, Arabica Coffee Bean, Potassium Carbonate, Magnesium Carbonate, Strychnos Nux-Vomica Seed, Passiflora Incarnata Top, Sepia Officinalis Juice, Valerian"
+    },
+    {
+        "code": "feb35922-4488-43c1-b7f7-25e0cfb91409",
+        "name": "Fluoxetine"
+    },
+    {
+        "code": "c7eab349-316e-4ab2-b3ee-dacf6d9f4d01",
+        "name": "olanzapine"
+    },
+    {
+        "code": "6a5b0085-27ed-4a17-ab86-2b3d915ed083",
+        "name": "ketorolac tromethamine"
+    },
+    {
+        "code": "794bb8c8-6e6d-4fb3-857f-0b25ab18e667",
+        "name": "Ketorolac Tromethamine"
+    },
+    {
+        "code": "d4c53ced-ad2f-45d8-99e9-1b805884ec9e",
+        "name": "risperidone"
+    },
+    {
+        "code": "cf3a32c2-a17c-42ec-bb98-0ad4c496e291",
+        "name": "sodium phosphate"
+    },
+    {
+        "code": "8d93c5d2-c077-45d4-9dce-111145b8dfd5",
+        "name": "Avobenzone, Octyl Methoxycinnamate"
+    },
+    {
+        "code": "79993e25-e065-4075-bb7d-d082920f9f00",
+        "name": "Mirtazapine"
+    },
+    {
+        "code": "3a4d1437-7fc0-41ae-953c-e5a9959b6a53",
+        "name": "pioglitazone hydrochloride"
+    },
+    {
+        "code": "96e92e28-ea16-4ef6-800f-d6a29f0cc497",
+        "name": "TOLNAFTATE"
+    },
+    {
+        "code": "b6a97c09-d760-430f-a88c-07863da82571",
+        "name": "Doxycycline Hyclate"
+    },
+    {
+        "code": "ed364993-ad2d-4107-95ce-7ecb882fcca7",
+        "name": "Amoxicillin"
+    },
+    {
+        "code": "51e93c19-98a8-4fc7-9137-81e11e06dacd",
+        "name": "Doxazosin Mesylate"
+    },
+    {
+        "code": "000751de-86bb-4694-8424-c52ca9cbb9dc",
+        "name": "Cephalexin"
+    },
+    {
+        "code": "6e3530f2-397c-4e81-bddd-88cf66057a35",
+        "name": "Pyrithione zinc"
+    },
+    {
+        "code": "7d5898fc-c772-4a32-b2d0-c758bbcaeb3c",
+        "name": "Titanium Dioxide and Zinc Oxide"
+    },
+    {
+        "code": "0ee23b09-bc16-401a-a66c-b210ff3e7b14",
+        "name": "Guaifenesin"
+    },
+    {
+        "code": "37510ae7-d2ae-47da-96a7-0cb933f5dfff",
+        "name": "Oxygen"
+    },
+    {
+        "code": "98646ffa-ee44-4699-9454-5f13aea63cd5",
+        "name": "OCTINOXATE, TITANIUM DIOXIDE"
+    },
+    {
+        "code": "5d9c4794-0dd3-403e-ae69-fc39cd059f08",
+        "name": "Acetaminophen, Guaifenesin, Phenylephrine HCl"
+    },
+    {
+        "code": "a6bfa851-e057-4ef7-ad4f-faa1c9052cb6",
+        "name": "Propranolol Hydrochloride"
+    },
+    {
+        "code": "719f7f6f-54bb-447e-a961-15f20d2b2a2c",
+        "name": "Spironolactone"
+    },
+    {
+        "code": "03cf3068-7f9f-4beb-a38a-14fd7624e8b1",
+        "name": "MENTHOL"
+    },
+    {
+        "code": "f72a8f27-4643-475e-b7a0-510a3187baad",
+        "name": "Simvastatin"
+    },
+    {
+        "code": "d3c6afd6-fb3c-4f03-82bd-c397d60ad84d",
+        "name": "Tobramycin and Dexamethasone"
+    },
+    {
+        "code": "00a3e0d5-835e-4024-888a-904cd09ef0e1",
+        "name": "timolol maleate"
+    },
+    {
+        "code": "f1404cde-7921-48f8-ae17-b5d51a058706",
+        "name": "ciclesonide"
+    },
+    {
+        "code": "83c7d462-1611-47cc-ae80-6e7c77d1436c",
+        "name": "Salsalate"
+    },
+    {
+        "code": "79db5f4e-3c46-48bb-acf6-b79b51f06189",
+        "name": "Fenofibrate"
+    },
+    {
+        "code": "c229f0c5-7ddb-4c6b-92bf-22dfe7b90e8f",
+        "name": "Acetaminophen"
+    },
+    {
+        "code": "42fbc694-20e8-432e-9d13-ddc9badaac0f",
+        "name": "Clonazepam"
+    },
+    {
+        "code": "ec279f20-accc-4f82-b2e0-2180bbbce481",
+        "name": "TERCONAZOLE"
+    },
+    {
+        "code": "9c306561-4c88-4417-8fe5-92a6717aa0ee",
+        "name": "Alprazolam"
+    },
+    {
+        "code": "2f68cf18-7ce5-48ca-8c14-b0085351793f",
+        "name": "Acetaminophen, Diphenhydramine HCl"
+    },
+    {
+        "code": "6f298bb7-2a0f-4a1a-a468-5c315c47e339",
+        "name": "Loratadine"
+    },
+    {
+        "code": "06b5a7ae-96b1-446a-b7ad-670cad07ffa8",
+        "name": "Tricolsan"
+    },
+    {
+        "code": "237313ad-7f86-45d2-83e4-558697462759",
+        "name": "Bisacodyl"
+    },
+    {
+        "code": "e2ded89c-1569-43d8-acb6-d9d4f172aa66",
+        "name": "amoxicillin"
+    },
+    {
+        "code": "31e43914-ed92-4137-9209-9a2f1afe29d3",
+        "name": "Triamcinolone Acetonide"
+    },
+    {
+        "code": "46fd5dff-a0fb-44ca-9733-d6ab5c8d97f9",
+        "name": "Oxymetazoline HCl"
+    },
+    {
+        "code": "e9c8272b-8aa8-40e9-ba58-02217d6a7295",
+        "name": "Famotidine"
+    },
+    {
+        "code": "171d240d-07b6-42be-bb0a-71b7283b3f9e",
+        "name": "synthetic conjugated estrogens, A"
+    },
+    {
+        "code": "e42e8b6b-9150-4271-b1a9-c02731343089",
+        "name": "Pyrite Salvia"
+    },
+    {
+        "code": "419536f5-161e-4d92-9ae4-24ff68ceefea",
+        "name": "triamcinolone acetonide"
+    },
+    {
+        "code": "d8d82871-20a1-4d5f-a3ee-747a5eb30f42",
+        "name": "Tolnaftate"
+    },
+    {
+        "code": "a50cfd02-e7f7-49fc-a8e5-b6e9c1115560",
+        "name": "Octinoxate and Titanium dioxide"
+    }
+]
