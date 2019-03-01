@@ -16,9 +16,7 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 @Service
 public class CourseService {
@@ -31,6 +29,29 @@ public class CourseService {
         ObjectMapper mapper = new ObjectMapper();
         List<Course> list = Arrays.asList(mapper.readValue(jsonData, Course[].class));
 
+        //ordenamiento
+        String orderField = parameters.get("orderField");
+        String order = parameters.get("order");
+
+        if("name".equals(orderField)){
+
+            if("ASC".equals(order)){
+                Collections.sort(list, Comparator.comparing(Course::getName));
+            }else{
+                Collections.sort(list, Comparator.comparing(Course::getName, Comparator.reverseOrder()));
+            }
+
+        }else if("code".equals(orderField)) {
+
+            if("ASC".equals(order)){
+                Collections.sort(list, Comparator.comparing(Course::getCode));
+            }else{
+                Collections.sort(list, Comparator.comparing(Course::getCode, Comparator.reverseOrder()));
+            }
+
+        }
+
+        //paginacion
         Pageable page = PageRequest.of(Integer.valueOf(parameters.get("page")), Integer.valueOf(parameters.get("items")));
 
         int start = page.getPageNumber() * page.getPageSize();
