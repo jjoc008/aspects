@@ -7,10 +7,14 @@ import java.util.List;
 
 @Getter
 @Setter
-public class ResponseCourse {
+public class ResponseCourse extends Response {
 
     private List<Course> data;
-    private Integer totalRows;
-    private Integer totalPages;
-    private Integer currentPage;
+    private Class<?> classDto = Course.class;
+
+    @Override
+    public void setData(List data) {
+        this.data = data;
+    }
+
 }
