@@ -23,12 +23,7 @@ public class StudentController {
     @GetMapping("/students")
     public ResponseStudent getStudents(@RequestParam Map<String, String> parameters) throws IOException {
 
-        long initialTime = LogUtils.getInitialTime();
-        ResponseStudent responseStudent = this.studentService.getStudents(parameters);
-        long elapsedTime = LogUtils.getFinalTime(initialTime);
-
-        System.out.println("Llamado a servicio estudiante tiempo de ejecucion " + elapsedTime+ "ms");
-        return responseStudent;
+       return this.studentService.getStudents(parameters);
 
     }
 

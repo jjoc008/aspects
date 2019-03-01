@@ -20,18 +20,17 @@ import java.util.Map;
 public class LogAspect {
 
     @Around(value = "execution(* co.com.jjoc.aspects.controllers.*.*(..))")
-    public void around(ProceedingJoinPoint proceedingJoinPoint ) {
+    public Object around(ProceedingJoinPoint proceedingJoinPoint ) throws Throwable {
 
         long initialTime = LogUtils.getInitialTime();
-        try {
-            proceedingJoinPoint.proceed();
-        } catch (Throwable throwable) {
-            throwable.printStackTrace();
-        }
+
+            Object result = proceedingJoinPoint.proceed();
+
         long elapsedTime = LogUtils.getFinalTime(initialTime);
 
-        System.out.println("Llamado a servicio "+proceedingJoinPoint.getSignature().getName()+" : "+elapsedTime+"ms");
+        System.out.println("Llamado metodo: "+proceedingJoinPoint.getSignature().getName()+" : "+elapsedTime+"ms");
 
+        return result;
     }
 
 
