@@ -1,5 +1,6 @@
 package co.com.jjoc.aspects.model;
 
+import co.com.jjoc.aspects.utils.OrderField;
 import lombok.Getter;
 import lombok.Setter;
 
@@ -7,8 +8,10 @@ import lombok.Setter;
 @Getter
 public class Student {
 
+    @OrderField(name = "name")
     private String name;
-    private Integer age;
+    @OrderField(name = "age", type = Integer.class)
+    private String age;
     private String identificationNumber;
     private String phone;
 

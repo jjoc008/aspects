@@ -4,6 +4,8 @@ package co.com.jjoc.aspects.services;
 import co.com.jjoc.aspects.model.Course;
 import co.com.jjoc.aspects.model.ResponseCourse;
 import co.com.jjoc.aspects.model.Student;
+import co.com.jjoc.aspects.utils.OrderUtils;
+import co.com.jjoc.aspects.utils.PaginationUtils;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
@@ -29,36 +31,8 @@ public class CourseService {
         ObjectMapper mapper = new ObjectMapper();
         List<Course> list = Arrays.asList(mapper.readValue(jsonData, Course[].class));
 
-        //ordenamiento
-        String orderField = parameters.get("orderField");
-        String order = parameters.get("order");
-
-        if("name".equals(orderField)){
-
-            if("ASC".equals(order)){
-                Collections.sort(list, Comparator.comparing(Course::getName));
-            }else{
-                Collections.sort(list, Comparator.comparing(Course::getName, Comparator.reverseOrder()));
-            }
-
-        }else if("code".equals(orderField)) {
-
-            if("ASC".equals(order)){
-                Collections.sort(list, Comparator.comparing(Course::getCode));
-            }else{
-                Collections.sort(list, Comparator.comparing(Course::getCode, Comparator.reverseOrder()));
-            }
-
-        }
-
-        //paginacion
-        Pageable page = PageRequest.of(Integer.valueOf(parameters.get("page")), Integer.valueOf(parameters.get("items")));
-
-        int start = page.getPageNumber() * page.getPageSize();
-        int end = (page.getPageNumber() * page.getPageSize()) + (page.getPageSize());
-        end = end > list.size() ?list.size() : end;
-
-        Page<Course> pageContent = new PageImpl<>(list.subList(start,end ), page, list.size());
+        OrderUtils.applyOrderRule(Course.class,list, parameters);
+        Page<Course> pageContent = PaginationUtils.getPage(list,Integer.valueOf(parameters.get("page")), Integer.valueOf(parameters.get("items")));
 
         ResponseCourse responseCourse = new ResponseCourse();
         responseCourse.setData(pageContent.getContent());

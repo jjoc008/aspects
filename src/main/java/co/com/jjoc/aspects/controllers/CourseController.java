@@ -5,6 +5,7 @@ import co.com.jjoc.aspects.model.ResponseCourse;
 import co.com.jjoc.aspects.model.Student;
 import co.com.jjoc.aspects.services.CourseService;
 import co.com.jjoc.aspects.services.StudentService;
+import co.com.jjoc.aspects.utils.LogUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -25,12 +26,10 @@ public class CourseController {
     @GetMapping("/courses")
     public ResponseCourse getStudents(@RequestParam Map<String, String> parameters) throws IOException {
 
-        long startTime = System.currentTimeMillis();
-
+        long initialTime = LogUtils.getInitialTime();
         ResponseCourse responseCourse = this.courseService.getCourses(parameters);
+        long elapsedTime = LogUtils.getFinalTime(initialTime);
 
-        long stopTime = System.currentTimeMillis();
-        long elapsedTime = stopTime - startTime;
         System.out.println("Llamado a servicio curso tiempo de ejecucion: "+elapsedTime+"ms");
         return responseCourse;
 
