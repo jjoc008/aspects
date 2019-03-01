@@ -18,7 +18,6 @@ import java.util.*;
 @Service
 public class StudentService {
 
-
     @PageRule
     @OrderRule
     public ResponseStudent getStudents(Map<String, String> parameters) throws IOException {

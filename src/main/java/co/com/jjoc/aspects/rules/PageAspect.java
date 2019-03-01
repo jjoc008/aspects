@@ -7,6 +7,7 @@ import co.com.jjoc.aspects.utils.PaginationUtils;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.AfterReturning;
 import org.aspectj.lang.annotation.Aspect;
+import org.springframework.core.annotation.Order;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Pageable;
@@ -16,6 +17,7 @@ import java.util.Map;
 
 @Aspect
 @Component
+@Order(0)
 public class PageAspect {
 
     @AfterReturning(value = "@annotation(co.com.jjoc.aspects.utils.PageRule)", returning = "result")
