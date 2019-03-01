@@ -25,7 +25,14 @@ public class CourseController {
     @GetMapping("/courses")
     public ResponseCourse getStudents(@RequestParam Map<String, String> parameters) throws IOException {
 
-        return this.courseService.getCourses(parameters);
+        long startTime = System.currentTimeMillis();
+
+        ResponseCourse responseCourse = this.courseService.getCourses(parameters);
+
+        long stopTime = System.currentTimeMillis();
+        long elapsedTime = stopTime - startTime;
+        System.out.println("Llamado a servicio curso tiempo de ejecucion: "+elapsedTime+"ms");
+        return responseCourse;
 
     }
 
