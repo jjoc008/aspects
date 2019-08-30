@@ -1,4 +1,4 @@
-package co.com.jjoc.aspects.utils;
+package co.com.jjoc.aspects.exercises.one;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
@@ -7,6 +7,6 @@ import java.lang.annotation.Target;
 
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)
-public @interface PageRule {
+public @interface MaskRule {
 
 }

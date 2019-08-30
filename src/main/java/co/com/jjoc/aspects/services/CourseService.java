@@ -3,9 +3,6 @@ package co.com.jjoc.aspects.services;
 
 import co.com.jjoc.aspects.model.Course;
 import co.com.jjoc.aspects.model.ResponseCourse;
-import co.com.jjoc.aspects.utils.OrderRule;
-import co.com.jjoc.aspects.utils.OrderUtils;
-import co.com.jjoc.aspects.utils.PageRule;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import org.springframework.stereotype.Service;
@@ -20,10 +17,7 @@ import java.util.*;
 @Service
 public class CourseService {
 
-
-    @PageRule
-    @OrderRule
-    public ResponseCourse getCourses(Map<String, String> parameters) throws IOException {
+    public ResponseCourse getCourses() throws IOException {
 
         File file = ResourceUtils.getFile("classpath:course_data.json");
         byte[] jsonData = Files.readAllBytes(Paths.get(file.getAbsolutePath()));

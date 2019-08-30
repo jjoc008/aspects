@@ -1,5 +1,6 @@
 package co.com.jjoc.aspects.controllers;
 
+import co.com.jjoc.aspects.exercises.one.MaskRule;
 import co.com.jjoc.aspects.model.Course;
 import co.com.jjoc.aspects.model.ResponseCourse;
 import co.com.jjoc.aspects.model.Student;
@@ -18,15 +19,13 @@ import java.util.Map;
 @RestController
 public class CourseController {
 
-
     @Autowired
     CourseService courseService;
 
-
     @GetMapping("/courses")
-    public ResponseCourse getStudents(@RequestParam Map<String, String> parameters) throws IOException {
+    public ResponseCourse getStudents() throws IOException {
 
-        return this.courseService.getCourses(parameters);
+        return this.courseService.getCourses();
 
     }
 

@@ -2,9 +2,6 @@ package co.com.jjoc.aspects.services;
 
 import co.com.jjoc.aspects.model.ResponseStudent;
 import co.com.jjoc.aspects.model.Student;
-import co.com.jjoc.aspects.utils.OrderRule;
-import co.com.jjoc.aspects.utils.OrderUtils;
-import co.com.jjoc.aspects.utils.PageRule;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Service;
 import org.springframework.util.ResourceUtils;
@@ -18,9 +15,7 @@ import java.util.*;
 @Service
 public class StudentService {
 
-    @PageRule
-    @OrderRule
-    public ResponseStudent getStudents(Map<String, String> parameters) throws IOException {
+    public ResponseStudent getStudents() throws IOException {
 
         File file = ResourceUtils.getFile("classpath:student_data.json");
         byte[] jsonData = Files.readAllBytes(Paths.get(file.getAbsolutePath()));
@@ -33,6 +28,5 @@ public class StudentService {
         return responseStudent;
 
     }
-
 
 }
